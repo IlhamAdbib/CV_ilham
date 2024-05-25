@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv.xsl"?>
+<cv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <entete>
+        <adresse>Av Mamoun- Tétouan</adresse>
+        
+        <nom>ADBIB Ilham</nom>
+        <telephone>0680894343</telephone>
+        <linkedin>ilham adbib</linkedin>
+        <mail>ilhamadbib30@gmail.com</mail>
+        <git>IlhamAdbib</git>
+        <about>Elève ingénieur en 4 ème année génie informatique à l'ENSA de Tétouan à la recherche d'un stage PFA en développement full stack </about>
+    </entete>
+    <formations>
+        <diplome>
+            <annee>2023-présent</annee>
+            <branche>Cycle ingénieur -Génie Informatique </branche>
+            <intitule>École Nationale des Sciences Appliquées de Tétouan</intitule>
+        </diplome>
+        <diplome>
+            <annee>2020-2022</annee>
+            <branche>Cycle préparatoire</branche>
+            <intitule>École Nationale des Sciences Appliquées de Tétouan</intitule>
+        </diplome>
+        <diplome>
+            <annee>JUIN 2019</annee>
+            <branche>Baccalaureat Sciences Physiques-Option
+                Français</branche>
+            <intitule>Lycée Kadi AYAD -Tétouan
+                
+            </intitule>
+        </diplome>
+    </formations>
+    <stages>
+        <stage>
+            <date>Juil 2023-Sep 2023</date>
+            <titre>Monadem Labs</titre>
+            <description>
+                Développement et gestion d'une application web Laravel pour optimiser les processus administratifs d'une école.
+            </description>
+        </stage>
+        <stage>
+            <date>Jui 2022-Juil 2022</date>
+            <titre>Naja7Host</titre>
+            <description>
+                Création d'un site WordPress personnalisé pour un client, intégrant des solutions sur mesure pour l'amélioration de l'expérience utilisateur.
+            </description>
+        </stage>
+    </stages>
+    
+    
+    <competences>
+            <competence>
+                <titre>Frontend </titre>
+                <description>HTML, CSS, JavaScript, Bootstrap, ReactJS</description>
+            </competence>
+            <competence>
+                <titre>Backend </titre>
+                <description>Laravel, JEE SpringBoot, Flask</description>
+            </competence>
+            <competence>
+                <titre>Conception d'interface utilisateur</titre>
+                <description>Java Swing</description>
+            </competence>
+            <competence>
+                <titre>Bases de données</titre>
+                <description>MySQL, PL/SQL, Oracle, MongoDB</description>
+            </competence>
+            <competence>
+                <titre>Modélisation et conception</titre>
+                <description>UML, MERISE</description>
+            </competence>
+            <competence>
+                <titre>Contrôle de version et collaboration</titre>
+                <description>Git, GitHub</description>
+            </competence>
+            <competence>
+                <titre>Langages de programmation</titre>
+                <description>Java, C, Python, PHP</description>
+            </competence>
+            <competence>
+                <titre>Systèmes d'exploitation</titre>
+                <description>Windows, Linux</description>
+            </competence>
+    </competences>
+    <langues>
+        <langue>
+            <intitule>Arabe</intitule>
+            <niveau>Maternelle</niveau>
+        </langue>
+        <langue>
+            <intitule>Français</intitule>
+            <niveau>C1</niveau>
+        </langue>
+        <langue>
+            <intitule>Anglais</intitule>
+            <niveau>C1</niveau>
+        </langue>
+        <langue>
+            <intitule>Espagnol</intitule>
+            <niveau>A2</niveau>
+        </langue>
+    </langues>
+   
+    <projects>
+        <project>
+            <datee>Avril 2024-Mai 2024</datee>
+            <title>Connect Four Game</title>
+            <contenu>Conception et implémentation d'un jeu "Connect Four" en Java, utilisant des patterns de conception comme Builder et Observer pour optimiser la structure du code , selon l'architecture MVC.</contenu>
+        </project>
+        <project>
+            <datee>Avril 2024-Mai 2024</datee>
+            <title>AlloExpert</title>
+            <contenu>Développement d'une plateforme Laravel pour réserver des services à domicile, intégrant la sécurité des transactions.</contenu>
+        </project>
+        <project>
+            <datee>Avril 2024-Avril 2024</datee>
+            <title>CarQuest</title>
+            <contenu>Création d'une solution logicielle en Flask et MongoDB pour gérer les réservations et la disponibilité des véhicules dans une agence de location.</contenu>
+        </project>
+        <project>
+            <datee>Janvier 2024-Mars 2024</datee>
+            <title>SkillMentor</title>
+            <contenu>Développement d'une application JEE offrant des parcours d'apprentissage personnalisés grâce à l'analyse de données.</contenu>
+        </project>
+        <project>
+            <datee>Décembre 2023-Janvier 2024</datee>
+            <title>IbnSina</title>
+            <contenu>Conception  d'un système Laravel pour la gestion hospitalière, incluant le suivi des patients et la planification des rendez-vous.</contenu>
+        </project>
+    </projects>
+    
+    
+</cv>
